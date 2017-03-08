@@ -1,0 +1,6 @@
+I/ActivityManager( 1287): Displayed com.mobilesrepublic.appy/com.cmcm.newsindia.MainActivity: +807ms (total +6s276ms)
+I/ActivityManager( 1287): Displayed com.mobilesrepublic.appy/com.cmcm.onews.ui.NewsActivity: +1s68ms
+I/ActivityManager( 1287): Displayed com.mobilesrepublic.appy/com.cmcm.newsindia.MainActivity: +1s112ms (total +6s829ms)
+I/ActivityManager( 1287): Displayed com.mobilesrepublic.appy/com.cmcm.onews.ui.NewsActivity: +1s95ms
+I/ActivityManager( 1287): Displayed com.mobilesrepublic.appy/com.cmcm.newsindia.MainActivity: +1s140ms (total +7s180ms)
+I/ActivityManager( 1287): Displayed com.mobilesrepublic.appy/com.cmcm.onews.ui.NewsActivity: +1s749ms
